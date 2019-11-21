@@ -3,6 +3,6 @@ LABEL name="vue-back"
 LABEL version="1.0"
 COPY . /app
 WORKDIR /app
-RUN npm install
+RUN cnpm install
 EXPOSE 3000
 CMD npm start
