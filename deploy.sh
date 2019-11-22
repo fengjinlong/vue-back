@@ -1,5 +1,4 @@
 
-git pull
 
 git add .
 
